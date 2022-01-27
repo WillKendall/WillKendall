@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillKendall
-- 👀 I’m interested in Python, GoLang, and RESTful webservices
+- 👀 I’m interested in Python, GoLang, J2EE, and RESTful webservices
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
